@@ -1,0 +1,15 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res/com.grasp.customview">
+
+    <com.grasp.customview.widgets.TimerButton 
+        android:id="@+id/timer_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:clickedText="@string/timer_button_clicked"
+        app:unClickText="获取验证"
+        app:time="5"
+        />
+
+</RelativeLayout>

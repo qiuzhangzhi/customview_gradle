@@ -1,0 +1,12 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <com.grasp.customview.widgets.ZoonProgressBar
+        android:id="@+id/zoonprogressbar"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        />
+</RelativeLayout>
+<!-- From: file:/Users/apple/StudioProjects/customview/app/src/main/res/layout/activity_progressbar.xml -->

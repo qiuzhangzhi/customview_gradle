@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/StudioProjects/customview/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/apple/StudioProjects/customview/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-dce27cc2a346e63b8d06765b227c4b2bac001282.jar" />
+    </item>
+    <item
+        jar="/Users/apple/StudioProjects/customview/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/apple/StudioProjects/customview/app/build/intermediates/pre-dexed/debug/classes-dd054b823d5b7daebf62bc55e569720c5cc4f763.jar" />
+    </item>
+    <item
+        jar="/Users/apple/StudioProjects/customview/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/apple/StudioProjects/customview/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-fd4355f9b3e272e8fd63357e717b8ab19d65f734.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Downloads/develop/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/apple/StudioProjects/customview/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-55c1a53fb95d57b2aaa69858028e06e8949ae477.jar" />
+    </item>
+
+</items>

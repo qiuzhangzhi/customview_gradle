@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomView</string>
+    <string name="timer_button_clicked">已发送（%1$ds）</string>
+    <string name="title_activity_timer_button">TimerButtonActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_multi_touch">MultiTouchActivity</string>
+    <string name="title_activity_dispaly">DispalyActivity</string>
+    <string name="title_activity_cmimage_view">CMImageViewActivity</string>
+    <string name="title_activity_unique_id">UniqueIdActivity</string>
+    <string name="title_activity_flake">FlakeActivity</string>
+    <string name="title_activity_progressbar">ProgressbarActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
